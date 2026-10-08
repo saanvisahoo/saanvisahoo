@@ -1,37 +1,54 @@
-<h1 align="center">Hi there, I'm Saanvi! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="YOUR_FAVORITE_GIF_URL" alt="Coding Animation" width="300" />
-</p>
+# Hi there, I'm Saanvi! 👋
 
-<p align="center">
-  <strong>Passionate Developer | [Your Primary Interest/Field, e.g., Full Stack]</strong>
-</p>
+<img src="PASTE_YOUR_FAVORITE_HELLO_GIF_HERE" width="600" />
 
----
+**Software Developer & Creator**  
+*Building things for the web and learning every day.*
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,github,css,html" />
-</p>
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saanvisahoo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanvisahoo&show_icons=true&theme=radical" alt="Saanvi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvisahoo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-### 📫 Connect with me
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://smavii.saanvismakshisahoo.workers.dev/)
-- ✉️ [Email](mailto:your.email@example.com)
+## 🛠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,github,css,html,vscode" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saanvisahoo&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
+## 🚀 About Me
+- 🔭 I’m currently working on cool web projects.
+- 🌱 I’m currently learning advanced animations and backend architecture.
+- 💬 Ask me about: Frontend development and design.
+- 📫 How to reach me: [Your Email/Portfolio Link]
+
+---
+
+<div align="center">
+
+## 📈 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=saanvisahoo&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvisahoo&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🎨 Vibe Check
+<div align="center">
+  <img src="PASTE_A_COOL_CODING_GIF_HERE" width="300" />
+  <img src="PASTE_ANOTHER_COOL_GIF_HERE" width="300" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saanvisahoo&style=flat-square&color=blue" />
+</div>
