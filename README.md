@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## ✦ DESIGN × BUILD
+## ✦ DESIGN × BUILD ✦
 
 **I design digital experiences with intention —  
 and build them with technology.**
@@ -52,7 +52,7 @@ and build them with technology.**
 
 <div align="center">
 
-## ✦ HOW I WORK
+## ✦ HOW I WORK ✦
 
 From a problem to a product — one intentional step at a time.
 
