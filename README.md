@@ -15,41 +15,6 @@ and build them with technology.**
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 DESIGN
-
-- Product & UI/UX Design
-- User Flows & Wireframes
-- High-Fidelity Prototypes
-- Design Systems
-- Accessibility
-- Dashboard & Enterprise UX
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 BUILD
-
-- React
-- Angular
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Vite
-
-</td>
-</tr>
-</table>
-
-<br>
-<br>
-
 <div align="center">
 
 ## ✦ HOW I WORK ✦
