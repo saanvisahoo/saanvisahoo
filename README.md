@@ -2,7 +2,16 @@
 
 # Hi there, I'm Saanvi! 👋
 
-<img src="PASTE_YOUR_FAVORITE_HELLO_GIF_HERE" width="600" />
+<div align="center">
+
+# Hi there, I'm Saanvi! 👋
+
+<img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="500" />
+
+**Software Developer & Creator**  
+*Building things for the web and learning every day.*
+
+</div>
 
 **Software Developer & Creator**  
 *Building things for the web and learning every day.*
@@ -43,8 +52,8 @@
 
 ## 🎨 Vibe Check
 <div align="center">
-  <img src="PASTE_A_COOL_CODING_GIF_HERE" width="300" />
-  <img src="PASTE_ANOTHER_COOL_GIF_HERE" width="300" />
+  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="250" />
+  <img src="https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d" width="250" />
 </div>
 
 <br>
