@@ -28,17 +28,6 @@
 - 💬 Ask me about: Frontend development and design.
 - 📫 How to reach me: [Your Email/Portfolio Link]
 
----
-
-<div align="center">
-
-## 📈 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=saanvisahoo&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvisahoo&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
 
 ## 🎨 Vibe Check
 <div align="center">
