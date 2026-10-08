@@ -46,3 +46,20 @@ and build them with technology.**
 </td>
 </tr>
 </table>
+
+<br>
+<br>
+
+<div align="center">
+
+## ✦ HOW I WORK
+
+From a problem to a product — one intentional step at a time.
+
+<br>
+
+<img src="./smavii-how-i-work.gif"
+     width="100%"
+     alt="Discover, Define, Design, Prototype, Build, Ship">
+
+</div>
