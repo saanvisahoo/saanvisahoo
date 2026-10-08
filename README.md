@@ -2,10 +2,6 @@
 
 # Hi there, I'm Saanvi! 👋
 
-<div align="center">
-
-# Hi there, I'm Saanvi! 👋
-
 <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" width="500" />
 
 **Software Developer & Creator**  
