@@ -1,62 +1,37 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Saanvi! 👋</h1>
 
-<img src="./smavii-github-hero.gif" width="100%" alt="SMAVII — UI/UX Designer × Frontend Developer">
+<p align="center">
+  <img src="YOUR_FAVORITE_GIF_URL" alt="Coding Animation" width="300" />
+</p>
 
-<br><br>
-
-<a href="https://smavii.saanvismakshisahoo.workers.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=flat-square&logoColor=white" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/saanvisahoo/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=saanvisahoo&label=PROFILE+VIEWS&color=BAE6FF&style=flat-square" alt="Profile views">
-
-</div>
+<p align="center">
+  <strong>Passionate Developer | [Your Primary Interest/Field, e.g., Full Stack]</strong>
+</p>
 
 ---
 
-## ABOUT
-
-I turn **messy requirements into calm interfaces** — then build the details I designed.
-
-I'm a **UI/UX Designer & Frontend Developer** working across product thinking, design systems and frontend implementation.
-
-**Currently focused on**  
-`Enterprise UX` · `Design Systems` · `Data-heavy Interfaces` · `React` · `Angular`
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,git,github,css,html" />
+</p>
 
 ---
 
-<div align="center">
-
-<img src="./smavii-github-toolbox.gif" width="100%" alt="SMAVII toolbox — design systems and frontend tools">
-
-</div>
-
-### DESIGN → BUILD
-
-**Design** `Figma` `UX4G` `Carbon`  
-**Frontend** `React` `Angular` `TypeScript` `JavaScript`
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saanvisahoo&show_icons=true&theme=radical" alt="Saanvi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvisahoo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## SELECTED WORK
-
-| Project | Focus |
-|---|---|
-| **Census Enumerator** | Enterprise UX · Dashboard · UX4G |
-| **EV Charging** | Data Visualization · Monitoring Dashboard |
-| **TransAble** | Accessibility · Mobile UX |
-| **Meditrack** | Healthcare · Mobile Product |
+### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://smavii.saanvismakshisahoo.workers.dev/)
+- ✉️ [Email](mailto:your.email@example.com)
 
 ---
 
-<div align="center">
-
-### DESIGN WITH INTENT. BUILD WITH DETAIL.
-
-[Portfolio](https://smavii.saanvismakshisahoo.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/saanvisahoo/)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saanvisahoo&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
