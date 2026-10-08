@@ -42,8 +42,7 @@
 
 ## 🎨 Vibe Check
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="250" />
-  <img src="https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d" width="250" />
+  <img src="https://github.com/user-attachments/assets/a3dbaa0c-8162-45f0-893f-0b2c300e6b37" width="250" />
 </div>
 
 <br>
